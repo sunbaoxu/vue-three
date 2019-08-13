@@ -2,8 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">立方体旋转</router-link> |
-      <router-link to="/about">渐变</router-link> |
-      <router-link to="/333">3333</router-link>
+      <router-link to="/slideshow">渐变</router-link> |
+      <router-link to="/three">three</router-link>
     </div>
     <router-view/>
   </div>

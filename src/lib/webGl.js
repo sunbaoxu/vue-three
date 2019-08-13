@@ -3,8 +3,7 @@
  * @author mr.doob / http://mrdoob.com/
  */
 
-THREE.WEBGL = {
-
+export const WEBGL = {
 	isWebGLAvailable: function () {
 
 		try {
